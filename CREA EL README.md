@@ -1,6 +1,9 @@
-<h1>sistema de registro</h1>
+<h1>Sistema de Registro</h1>
 
-- Estado del proyecto: En construcción 
+- Estado del proyecto: En construcción
+
 Para ejecutar el sistema, debes poner
 
-"npn instal react"
+npn install react
+
+
